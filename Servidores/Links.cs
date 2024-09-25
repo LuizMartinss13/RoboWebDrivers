@@ -19,8 +19,7 @@ namespace Servidores
             {
                 Links.Add(servidor.Trim());
             }
-
-            Console.WriteLine(Links);
+            
             return Links;
         }
     }
