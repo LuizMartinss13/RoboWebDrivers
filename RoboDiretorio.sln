@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboDiretorio", "RoboDiretorio\RoboDiretorio.csproj", "{C092F16B-FE80-4C4B-832C-2C1B1D0CAC0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleRobo", "ConsoleRobo\ConsoleRobo.csproj", "{8DB59072-B92F-4DDB-B3A9-6AF01A9690F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RoboWebDrivers", "RoboWebDrivers", "{DADC72BA-E840-4527-BFBE-53F1206DC1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C092F16B-FE80-4C4B-832C-2C1B1D0CAC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C092F16B-FE80-4C4B-832C-2C1B1D0CAC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C092F16B-FE80-4C4B-832C-2C1B1D0CAC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C092F16B-FE80-4C4B-832C-2C1B1D0CAC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB59072-B92F-4DDB-B3A9-6AF01A9690F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB59072-B92F-4DDB-B3A9-6AF01A9690F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB59072-B92F-4DDB-B3A9-6AF01A9690F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB59072-B92F-4DDB-B3A9-6AF01A9690F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C092F16B-FE80-4C4B-832C-2C1B1D0CAC0A} = {DADC72BA-E840-4527-BFBE-53F1206DC1EE}
+		{8DB59072-B92F-4DDB-B3A9-6AF01A9690F3} = {DADC72BA-E840-4527-BFBE-53F1206DC1EE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E118008-07F9-40A3-8B0A-01339BF3F2B7}
+	EndGlobalSection
+EndGlobal
